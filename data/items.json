@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Poster S",
+    "imagePath": "/assets/img/posterS.png",
+    "price": 10.00,
+    "initialQty": 12
+  },
+  {
+    "id": 2,
+    "name": "Poster",
+    "imagePath": "/assets/img/poster.png",
+    "price": 12.00,
+    "initialQty": 12
+  },
+  {
+    "id": 3,
+    "name": "Poster L",
+    "imagePath": "/assets/img/posterL.png",
+    "price": 15.00,
+    "initialQty": 20
+  }
+]
